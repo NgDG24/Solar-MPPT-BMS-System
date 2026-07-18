@@ -155,7 +155,7 @@
       "teardrop_parameters": [
         {
           "td_allow_use_two_tracks": true,
-          "td_curve_segcount": 0,
+          "td_curve_segcount": 1,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -632,7 +632,7 @@
         "uuid": "db8ca071-62bf-4378-b43c-6ff789ff64b4"
       }
     ],
-    "used_designators": "",
+    "used_designators": "TH1,#PWR4",
     "variants": []
   },
   "sheets": [
