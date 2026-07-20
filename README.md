@@ -3,16 +3,6 @@
 ## 📌 Project Overview
 This project is a high-efficiency, robust hardware system designed to harvest solar energy (9V, 2.5A) and safely manage the charging/discharging process for a 1-Cell 18650 Li-ion battery. The design focuses on optimizing the "Power Path" through three specialized stages: High-Voltage Surge Protection, MPPT Buck Charging, and precision Battery Management.
 
-## ⚙️ Hardware Architecture
-The system is divided into three distinct modules, utilizing industry-leading ICs:
-
-*   **Module 1: High-Voltage Surge Stopper (LTC4366)**
-    Acts as the gatekeeper. It controls an external N-channel MOSFET to protect the downstream circuitry from severe overvoltage transients and voltage spikes [1]. 
-*   **Module 2: MPPT Buck Charger (LTC4162-L)**
-    The heart of the power transfer. Operating at a high switching frequency of 1.5MHz [2], it steps down the solar input to safely pump up to 3.2A of charge current into the battery [3]. It integrates a Maximum Power Point Tracking (MPPT) algorithm to extract peak power under varying solar illumination [4].
-*   **Module 3: Battery Management System (MAX17302)**
-    A highly accurate ModelGauge™ m5 EZ fuel gauge and protector [5]. It continuously monitors voltage, current, and temperature, driving a back-to-back dual MOSFET structure to prevent overcharge, overdischarge, and short circuits [6].
-
 ## 🛠️ Advanced PCB Layout Techniques Applied
 Designing a mixed-signal board that handles high current (3.2A), high-frequency switching (1.5MHz), and micro-volt level sensing requires strict adherence to design rules. This PCB was designed with the following industry-standard techniques:
 
