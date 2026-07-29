@@ -2315,24 +2315,20 @@
 		(uuid "e627b88a-8e5a-4db3-b364-4f61541ed9e4")
 	)
 	(junction
-		(at 179.07 92.71)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "72cb28b0-f7a1-47a9-9d03-d00e1d907f60")
-	)
-	(junction
 		(at 201.93 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cc33c4be-7ea9-40ee-b53b-35fcc72b7b6c")
 	)
+	(junction
+		(at 179.07 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fb678133-ee40-4f7d-b3e5-f4e1b989f77b")
+	)
 	(no_connect
 		(at 167.64 123.19)
 		(uuid "43c85fd5-644e-40de-8757-d6883afc3877")
-	)
-	(no_connect
-		(at 196.85 105.41)
-		(uuid "f80db141-3bb4-48bf-befb-6422f9d3808d")
 	)
 	(wire
 		(pts
@@ -4024,6 +4020,7 @@
 		)
 		(property "Value" "Q_NMOS_DSG"
 			(at 147.828 88.9 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4033,7 +4030,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:DFN-4_5x7mm_P5.08mm"
+		(property "Footprint" "a:FDMC86139P"
 			(at 160.02 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -4117,7 +4114,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:DFN-4_5x7mm_P5.08mm"
+		(property "Footprint" "a:FDMC86139P"
 			(at 165.1 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -4201,7 +4198,7 @@
 				)
 			)
 		)
-		(property "Footprint" "21-0137I_T1433-2_MXM"
+		(property "Footprint" "Max17302:21-0137I_T1433-2_MXM"
 			(at 167.64 115.57 0)
 			(hide yes)
 			(show_name no)
