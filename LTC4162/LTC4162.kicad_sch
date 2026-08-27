@@ -3693,6 +3693,12 @@
 					(unit 1)
 				)
 			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3774,6 +3780,12 @@
 					(unit 1)
 				)
 			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
+					(reference "C3")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3852,6 +3864,12 @@
 			(project "LTC4162"
 				(path "/3c29357a-68d2-4983-bb91-6d3951934863"
 					(reference "NTCS0402E3103FLT2")
+					(unit 1)
+				)
+			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
+					(reference "NTCS0402E3103FLT1")
 					(unit 1)
 				)
 			)
@@ -4048,6 +4066,12 @@
 					(unit 1)
 				)
 			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
+					(reference "Q2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4126,6 +4150,12 @@
 					(unit 1)
 				)
 			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4159,7 +4189,7 @@
 				)
 			)
 		)
-		(property "Footprint" "QFN50P400X500X80-29N-D"
+		(property "Footprint" "LTC4162:QFN50P400X500X80-29N-D"
 			(at 187.96 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -4394,6 +4424,12 @@
 					(unit 1)
 				)
 			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
+					(reference "B2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4469,6 +4505,12 @@
 		(instances
 			(project "LTC4162"
 				(path "/3c29357a-68d2-4983-bb91-6d3951934863"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
 					(reference "J3")
 					(unit 1)
 				)
@@ -4554,6 +4596,12 @@
 					(unit 1)
 				)
 			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
+					(reference "L1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4632,6 +4680,12 @@
 					(unit 1)
 				)
 			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4706,6 +4760,12 @@
 		(instances
 			(project "LTC4162"
 				(path "/3c29357a-68d2-4983-bb91-6d3951934863"
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
 					(reference "#PWR016")
 					(unit 1)
 				)
@@ -4790,6 +4850,12 @@
 					(unit 1)
 				)
 			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
+					(reference "J2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4864,6 +4930,12 @@
 		(instances
 			(project "LTC4162"
 				(path "/3c29357a-68d2-4983-bb91-6d3951934863"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
 					(reference "#PWR03")
 					(unit 1)
 				)
@@ -4950,6 +5022,12 @@
 					(unit 1)
 				)
 			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
+					(reference "C7")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5024,6 +5102,12 @@
 		(instances
 			(project "LTC4162"
 				(path "/3c29357a-68d2-4983-bb91-6d3951934863"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
 					(reference "#PWR02")
 					(unit 1)
 				)
@@ -5220,6 +5304,12 @@
 					(unit 1)
 				)
 			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
+					(reference "Q3")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5297,6 +5387,12 @@
 			(project "LTC4162"
 				(path "/3c29357a-68d2-4983-bb91-6d3951934863"
 					(reference "R8")
+					(unit 1)
+				)
+			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -5386,6 +5482,12 @@
 					(unit 1)
 				)
 			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
+					(reference "Rsnsi1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5465,6 +5567,12 @@
 			(project "LTC4162"
 				(path "/3c29357a-68d2-4983-bb91-6d3951934863"
 					(reference "C14")
+					(unit 1)
+				)
+			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -5549,6 +5657,12 @@
 					(unit 1)
 				)
 			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
+					(reference "C6")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5628,6 +5742,12 @@
 					(unit 1)
 				)
 			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
+					(reference "C5")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5702,6 +5822,12 @@
 		(instances
 			(project "LTC4162"
 				(path "/3c29357a-68d2-4983-bb91-6d3951934863"
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
 					(reference "#PWR07")
 					(unit 1)
 				)
@@ -5785,6 +5911,12 @@
 					(unit 1)
 				)
 			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
+					(reference "R3")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5859,6 +5991,12 @@
 		(instances
 			(project "LTC4162"
 				(path "/3c29357a-68d2-4983-bb91-6d3951934863"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
 					(reference "#PWR09")
 					(unit 1)
 				)
@@ -5949,6 +6087,12 @@
 					(unit 1)
 				)
 			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
+					(reference "Rsnsb1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6023,6 +6167,12 @@
 		(instances
 			(project "LTC4162"
 				(path "/3c29357a-68d2-4983-bb91-6d3951934863"
+					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
 					(reference "#PWR015")
 					(unit 1)
 				)
@@ -6106,6 +6256,12 @@
 			(project "LTC4162"
 				(path "/3c29357a-68d2-4983-bb91-6d3951934863"
 					(reference "J2")
+					(unit 1)
+				)
+			)
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/22221f63-b32d-4372-b662-a2ce74004c9b"
+					(reference "J4")
 					(unit 1)
 				)
 			)

@@ -2939,6 +2939,12 @@
 			(uuid "1f90c9bf-94ee-4a9e-8cbd-a1bacda7ada4")
 		)
 		(instances
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/44791df6-96ae-4f24-a49d-da257675e590"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
 			(project "MAX17302"
 				(path "/db8ca071-62bf-4378-b43c-6ff789ff64b4"
 					(reference "#PWR04")
@@ -2959,7 +2965,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31fe637c-0b68-4541-b841-fec387cc9a70")
-		(property "Reference" "J3"
+		(property "Reference" "J7"
 			(at 260.35 128.2699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3024,6 +3030,12 @@
 			(uuid "5d2ab887-a1df-4adb-94b1-28149ec65359")
 		)
 		(instances
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/44791df6-96ae-4f24-a49d-da257675e590"
+					(reference "J7")
+					(unit 1)
+				)
+			)
 			(project "MAX17302"
 				(path "/db8ca071-62bf-4378-b43c-6ff789ff64b4"
 					(reference "J3")
@@ -3044,7 +3056,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3d79bf53-12c3-47b8-adea-b8bf1b39f86d")
-		(property "Reference" "J2"
+		(property "Reference" "J6"
 			(at 204.47 82.5499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3106,6 +3118,12 @@
 			(uuid "d2bbc2e7-362b-455e-b201-1c505e604a49")
 		)
 		(instances
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/44791df6-96ae-4f24-a49d-da257675e590"
+					(reference "J6")
+					(unit 1)
+				)
+			)
 			(project "MAX17302"
 				(path "/db8ca071-62bf-4378-b43c-6ff789ff64b4"
 					(reference "J2")
@@ -3126,7 +3144,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3f986685-9530-4b86-88ca-f5cf25c292ee")
-		(property "Reference" "J1"
+		(property "Reference" "J5"
 			(at 132.08 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3186,6 +3204,12 @@
 			(uuid "f83fa74f-d85d-490f-859a-7a41d11b75a0")
 		)
 		(instances
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/44791df6-96ae-4f24-a49d-da257675e590"
+					(reference "J5")
+					(unit 1)
+				)
+			)
 			(project "MAX17302"
 				(path "/db8ca071-62bf-4378-b43c-6ff789ff64b4"
 					(reference "J1")
@@ -3265,6 +3289,12 @@
 			(uuid "cfe3daec-b4df-4a8f-81c4-e8377dab3289")
 		)
 		(instances
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/44791df6-96ae-4f24-a49d-da257675e590"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
 			(project "MAX17302"
 				(path "/db8ca071-62bf-4378-b43c-6ff789ff64b4"
 					(reference "#PWR01")
@@ -3284,7 +3314,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "53cac7f0-5b41-4413-8b85-548ad915ffcd")
-		(property "Reference" "C2"
+		(property "Reference" "C9"
 			(at 156.464 126.238 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3344,6 +3374,12 @@
 			(uuid "869e772f-b372-4a03-b08d-b75b598f3213")
 		)
 		(instances
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/44791df6-96ae-4f24-a49d-da257675e590"
+					(reference "C9")
+					(unit 1)
+				)
+			)
 			(project "MAX17302"
 				(path "/db8ca071-62bf-4378-b43c-6ff789ff64b4"
 					(reference "C2")
@@ -3422,6 +3458,12 @@
 			(uuid "f5a66e80-71b3-4f1e-be50-8150872b2fd0")
 		)
 		(instances
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/44791df6-96ae-4f24-a49d-da257675e590"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
 			(project "MAX17302"
 				(path "/db8ca071-62bf-4378-b43c-6ff789ff64b4"
 					(reference "#PWR03")
@@ -3442,7 +3484,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "666a0e17-5aef-4898-ae54-d58c69225b92")
-		(property "Reference" "C3"
+		(property "Reference" "C10"
 			(at 161.036 118.618 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3502,6 +3544,12 @@
 			(uuid "9a547d16-083f-4ef1-80d0-fb7449837309")
 		)
 		(instances
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/44791df6-96ae-4f24-a49d-da257675e590"
+					(reference "C10")
+					(unit 1)
+				)
+			)
 			(project "MAX17302"
 				(path "/db8ca071-62bf-4378-b43c-6ff789ff64b4"
 					(reference "C3")
@@ -3583,6 +3631,12 @@
 			(uuid "1db421b6-698f-4a42-809b-14241843c90b")
 		)
 		(instances
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/44791df6-96ae-4f24-a49d-da257675e590"
+					(reference "TH1")
+					(unit 1)
+				)
+			)
 			(project "MAX17302"
 				(path "/db8ca071-62bf-4378-b43c-6ff789ff64b4"
 					(reference "TH1")
@@ -3603,7 +3657,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8505b2bb-6ade-4c7a-a601-7782ad9e6acd")
-		(property "Reference" "R2"
+		(property "Reference" "R5"
 			(at 219.71 86.36 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3669,6 +3723,12 @@
 			(uuid "7ce86165-05f2-4e76-8b4f-8bdc2d34d112")
 		)
 		(instances
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/44791df6-96ae-4f24-a49d-da257675e590"
+					(reference "R5")
+					(unit 1)
+				)
+			)
 			(project "MAX17302"
 				(path "/db8ca071-62bf-4378-b43c-6ff789ff64b4"
 					(reference "R2")
@@ -3747,6 +3807,12 @@
 			(uuid "8636d928-eb52-404f-97a9-9d1946ce500e")
 		)
 		(instances
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/44791df6-96ae-4f24-a49d-da257675e590"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
 			(project "MAX17302"
 				(path "/db8ca071-62bf-4378-b43c-6ff789ff64b4"
 					(reference "#PWR02")
@@ -3766,7 +3832,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a549f32a-af8a-4189-9894-19d17f574580")
-		(property "Reference" "C4"
+		(property "Reference" "C11"
 			(at 225.044 123.698 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3826,6 +3892,12 @@
 			(uuid "0ef5d568-b76e-4674-a85d-e4a61640b54d")
 		)
 		(instances
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/44791df6-96ae-4f24-a49d-da257675e590"
+					(reference "C11")
+					(unit 1)
+				)
+			)
 			(project "MAX17302"
 				(path "/db8ca071-62bf-4378-b43c-6ff789ff64b4"
 					(reference "C4")
@@ -3846,7 +3918,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ab841369-be21-4273-a515-20ad70aa1b15")
-		(property "Reference" "R1"
+		(property "Reference" "R4"
 			(at 181.61 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3908,6 +3980,12 @@
 			(uuid "1b5d58cf-1da2-41b2-931e-5b3d30091b84")
 		)
 		(instances
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/44791df6-96ae-4f24-a49d-da257675e590"
+					(reference "R4")
+					(unit 1)
+				)
+			)
 			(project "MAX17302"
 				(path "/db8ca071-62bf-4378-b43c-6ff789ff64b4"
 					(reference "R1")
@@ -3927,7 +4005,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c30510f4-4327-4938-824c-c3222226a8e8")
-		(property "Reference" "C1"
+		(property "Reference" "C8"
 			(at 147.32 112.268 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3987,6 +4065,12 @@
 			(uuid "e4ba7782-d67b-4565-b7ad-bdc139d4c9d6")
 		)
 		(instances
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/44791df6-96ae-4f24-a49d-da257675e590"
+					(reference "C8")
+					(unit 1)
+				)
+			)
 			(project "MAX17302"
 				(path "/db8ca071-62bf-4378-b43c-6ff789ff64b4"
 					(reference "C1")
@@ -4007,7 +4091,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d17a236e-190b-4996-8362-4904bcbfc75d")
-		(property "Reference" "Q1"
+		(property "Reference" "Q4"
 			(at 147.828 86.36 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4073,6 +4157,12 @@
 			(uuid "226343d6-a192-49d5-ab4a-d6e49a2aaf32")
 		)
 		(instances
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/44791df6-96ae-4f24-a49d-da257675e590"
+					(reference "Q4")
+					(unit 1)
+				)
+			)
 			(project "MAX17302"
 				(path "/db8ca071-62bf-4378-b43c-6ff789ff64b4"
 					(reference "Q1")
@@ -4092,7 +4182,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e36cfdde-3233-47e8-ab77-96a10a8c6495")
-		(property "Reference" "Q2"
+		(property "Reference" "Q5"
 			(at 162.814 86.106 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4157,6 +4247,12 @@
 			(uuid "db29c44f-51ab-4fbc-9429-d7a961ee27af")
 		)
 		(instances
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/44791df6-96ae-4f24-a49d-da257675e590"
+					(reference "Q5")
+					(unit 1)
+				)
+			)
 			(project "MAX17302"
 				(path "/db8ca071-62bf-4378-b43c-6ff789ff64b4"
 					(reference "Q2")
@@ -4279,6 +4375,12 @@
 			(uuid "4dcd8d89-8383-4fa3-9725-cc11729bc89a")
 		)
 		(instances
+			(project "TTT"
+				(path "/990e0fce-b73a-47af-aaa3-74ef9b552d39/44791df6-96ae-4f24-a49d-da257675e590"
+					(reference "U1")
+					(unit 1)
+				)
+			)
 			(project "MAX17302"
 				(path "/db8ca071-62bf-4378-b43c-6ff789ff64b4"
 					(reference "U1")
@@ -4294,10 +4396,4 @@
 			"a9d6bc28-9801-49e7-9937-894c40f8f812" "e627b88a-8e5a-4db3-b364-4f61541ed9e4"
 		)
 	)
-	(sheet_instances
-		(path "/"
-			(page "1")
-		)
-	)
-	(embedded_fonts no)
 )
