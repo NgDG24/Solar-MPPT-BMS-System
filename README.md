@@ -1,5 +1,7 @@
 # Advanced Solar Power Path Manager with MPPT & BMS
 
+- Author: Nguyen Duc Giang
+
 ## 📌 Project Overview
 This project is a high-efficiency, robust hardware system designed to harvest solar energy (9V, 2.5A) and safely manage the charging/discharging process for a 1-Cell 18650 Li-ion battery. The design focuses on optimizing the "Power Path" through three specialized stages: High-Voltage Surge Protection, MPPT Buck Charging, and precision Battery Management.
 
