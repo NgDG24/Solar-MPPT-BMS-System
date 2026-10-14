@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AO4406A
+D N-Channel 30 V 13A (Ta) 3.1W (Ta) Surface Mount 8-SOIC ,30 V ,30 V ,11.5mOhm @ 12A, 10v ,-55C ~ 150C (TJ)
+K
+F https://www.aosmd.com/sites/default/files/res/datasheets/AOSP36326C.pdf
+$ENDCMP
+#
+#End Doc Library

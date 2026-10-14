@@ -1,0 +1,35 @@
+# === KiCad / Altium generated - DO NOT COMMIT ===
+.history/
+*-backups/
+*backups/
+**/.history/
+**/*-backups/
+
+# KiCad autosave / temp
+_autosave-*
+*.bak
+*.tmp
+*~
+_fp-info-cache*
+*.net
+*.log
+fp-info-cache
+
+# OS / Editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*.swo
+.vscode/
+*.code-workspace
+
+# Python / misc
+__pycache__/
+*.pyc
+
+# KiCad lock files (remote has 4 .lck files, delete them)
+*.lck
+~*.lck
+*.kicad_pcb.lck
+

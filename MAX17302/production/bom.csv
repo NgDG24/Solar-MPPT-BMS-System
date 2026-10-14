@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C3, C4",0805,3,0.1 µF,
+C2,0805,1,0.47µF,
+"J1, J2",AMASS_XT30U-F_1x02_P5.0mm_Vertical,2,Conn_01x02,
+J3,PinHeader_1x03_P2.54mm_Vertical,1,Conn_01x03,
+Q3,TSSOP-8_4.4x3mm_P0.65mm,1,FS8205A,
+R1,0805,1,10Ω,
+R2,R_Shunt_Ohmite_LVK12,1,10mΩ,
+"R3, R4",0805,2,1k,
+TH1,0805,1,10kΩ,
+U1,21-0137I_T1433-2_MXM,1,MAX17302G+T,

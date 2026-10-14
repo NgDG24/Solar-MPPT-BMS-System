@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDMC86139P
+D This product is optimised for fast switching applications as well as load switch applications; Max rDS(on) = 67 m at VGS = -10 V, ID = -4.4 A; Very low RDS-on mid voltage P channel silicon technology optimised for low Qg; Max rDS(on) = 89 m at VGS = -6 V, ID = -3.6 A; 100% UIL Tested; RoHS Compliant
+K
+F https://www.onsemi.com/pub/Collateral/FDMC86139P-D.pdf
+$ENDCMP
+#
+#End Doc Library
